@@ -77,7 +77,7 @@ python main.py  # Or submit evaluation tasks via FastAPI
 
 ### 3. Online Demo
 
-* Access: [http://3.128.173.187/emotion-eval-frontend/](http://3.128.173.187/emo-eval-frontend/)
+* Access: [http://3.147.6.184:3000/](http://3.147.6.184:3000/)
 
 ---
 
@@ -197,7 +197,7 @@ python main.py  # 或通过 FastAPI 提交评测任务
 
 ### 3. 网站demo
 
-* 访问：[http://3.128.173.187/emotion-eval-frontend/](http://3.128.173.187/emo-eval-frontend/)
+* 访问：[http://3.147.6.184:3000/](http://3.147.6.184:3000/)
 
 
 ## 📦 依赖环境 / Requirements
